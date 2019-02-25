@@ -1,6 +1,7 @@
-# nuxtApp243
+# Reusable-Func-Nuxt24
 
-> My swell Nuxt.js project
+> Nuxt.js 2.4.3 + Express 4.16 + Element UI 2.4 (PWA, Jest)
+
 
 ## Build Setup
 
